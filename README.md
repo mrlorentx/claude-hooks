@@ -14,13 +14,8 @@ Built for **Hyprland** on Linux.
 ## Install
 
 1. **Clone the repo**
-
-   ```sh
-   git clone https://github.com/your-user/omarchook.git
-   cd omarchook
-   ```
-
 2. **Make the script executable**
+_Before_ executing scripts from an unknown source, just please make sure that you atleast **try** to understand what is going on here. I'm a nice guy, but the internet is not always a nice place.
 
    ```sh
    chmod +x notify.sh
