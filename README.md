@@ -1,4 +1,4 @@
-# omarchook
+# Claude hooks
 
 A Claude Code [hook](https://docs.anthropic.com/en/docs/claude-code/hooks) that sends a desktop notification whenever Claude Code is waiting for permission approval. Clicking the notification focuses the terminal window automatically.
 
